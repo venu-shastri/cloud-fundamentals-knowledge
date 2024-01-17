@@ -25,7 +25,9 @@ https://aws.amazon.com/compliance/shared-responsibility-model/
 https://aws.amazon.com/iam/features/mfa/
 
 
+# Connect to your Linux instance from Windows with PuTTY
 
-IAM Admin
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+
 
 https://975050041747.signin.aws.amazon.com/console
