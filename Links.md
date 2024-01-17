@@ -34,3 +34,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html
 
 https://975050041747.signin.aws.amazon.com/console
+
+# Cost Explorer
+
+https://aws.amazon.com/de/aws-cost-management/aws-cost-explorer/
