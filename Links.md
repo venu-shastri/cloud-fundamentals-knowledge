@@ -29,5 +29,8 @@ https://aws.amazon.com/iam/features/mfa/
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
 
+# Compute Service WhitePaper
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html
 
 https://975050041747.signin.aws.amazon.com/console
