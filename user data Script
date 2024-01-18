@@ -5,7 +5,12 @@ chkconfig httpd on
 mkdir /var/www/html/register
 echo "<html> <h1> Accounts Page </h1></html>">/var/wwww/html/register/index.html
 
-
+#!/bin/bash
+sudo yum install httpd -y
+sudo service httpd start
+sudo chkconfig httpd on 
+sudo chmod 777 /var/www/html
+echo "<html><h1><p>HostName <strong>$(hostname)</strong></p></h1></html>">/var/www/html/index.html
 
 #Installing git and Node Js
 sudo yum install git
